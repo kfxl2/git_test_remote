@@ -1,0 +1,29 @@
+Desvendando o Git: Minha Jornada na UC13
+
+Neste artigo, compartilho minhas experiências na Unidade Curricular 13 (UC13), onde explorei o mundo do Git. Aprendi a controlar versões, criar commits, reverter alterações e manipular branches.
+
+O Objetivo: Dominar o Git
+
+Meu objetivo era entender como o Git funciona e como posso usá-lo para melhorar meu trabalho em desenvolvimento de software.
+
+As Principais Atividades
+
+1. Criando um Histórico de Versões: Aprendi a criar commits e documentar mudanças.
+2. Reversão de Alterações: Descobri como desfazer alterações com git reset e git revert.
+3. Manipulação de Branches: Entendi como criar e gerenciar branches.
+
+Desafios Encontrados
+
+- Entender os comandos reset e revert.
+- Gerenciar conflitos ao realizar merges.
+
+Conclusão
+
+Aprender Git foi uma experiência incrível! Agora posso trabalhar de forma segura, documentada e colaborativa.
+
+Lições Aprendidas
+
+- Mensagens descritivas em commits são fundamentais.
+- Cuidado na resolução de conflitos.
+
+Essa experiência me mostrou que o Git é uma ferramenta poderosa para desenvolvedores. Estou ansioso para continuar aprendendo e melhorando minhas habilidades!
